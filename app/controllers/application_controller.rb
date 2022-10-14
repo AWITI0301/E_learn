@@ -1,6 +1,9 @@
 class ApplicationController < ActionController::API
   SECRET_KEY = Rails.application.secrets.secret_key_base.to_s
 
+  include ActionController::Cookies
+end
+
   # authorize
   def authorize_request
     header = request.headers['Authorization']
