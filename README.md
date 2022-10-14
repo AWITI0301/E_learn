@@ -1,4 +1,4 @@
-# TalenTree
+# E-learn
 
 - [Overview](#overview)
 - [MVP](#mvp)
