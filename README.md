@@ -17,13 +17,13 @@
 
 ## Overview
 
-**TalenTree** is an app that connects students or new learners of any subject with teachers around the world who are looking for students. TalenTree also allows both teachers and students to make posts and build a resume of work on their profile. Teacher accounts can create classes and students can search for classes by categories in the Browse tab to register for courses.
+**e-LEARN** is an app that connects students or new learners of any subject with teachers around the world who are looking for students. TalenTree also allows both teachers and students to make posts and build a resume of work on their profile. Teacher accounts can create classes and students can search for classes by categories in the Browse tab to register for courses.
 
 <br>
 
 ## MVP
 
-**TalenTree**'s minimum viable product will be a functioning full-stack app that has a back-end with models for students, teachers, posts, and classes (along with the connections between each entity) and a front-end that allows users to perform full CRUD (Create, Read, Update, Delete) on the server by viewing posts and creating/editing/deleting their own posts. Teachers should be able to create their own classes that the students can then register for via a connection request (see [ERD Model](#erd-model) for structure of data). The styling will incorporate flexbox and will be responsive so the app looks good on mobile screens as well.
+**E-LEARN**'s minimum viable product will be a functioning full-stack app that has a back-end with models for students, teachers, posts, and classes (along with the connections between each entity) and a front-end that allows users to perform full CRUD (Create, Read, Update, Delete) on the server by viewing posts and creating/editing/deleting their own posts. Teachers should be able to create their own classes that the students can then register for via a connection request (see [ERD Model](#erd-model) for structure of data). The styling will incorporate flexbox and will be responsive so the app looks good on mobile screens as well.
 
 <br>
 
@@ -44,19 +44,6 @@
 
 ### Client (Front End)
 
-#### Wireframes
-
-- Web View
-
-![Link to Web Wireframe](https://res.cloudinary.com/dszox5xnw/image/upload/v1628780513/TalenTree/talentree-web-wireframes_defhu5.png)
-
-- Mobile View
-
-![Link to Mobile Wireframe](https://res.cloudinary.com/dszox5xnw/image/upload/v1628780514/TalenTree/talentree-mobile-wireframes_xvccvc.png)
-
-#### Component Hierarchy
-
-![TalenTree Component Hierarchy](https://res.cloudinary.com/dszox5xnw/image/upload/v1628786510/TalenTree/TalenTree_2x_tlhest.png)
 
 #### Component File Structure
 
@@ -122,16 +109,7 @@ src
 
 ```
 
-#### Project Schedule
 
-| Day       | Deliverable                                              | Status     |
-| --------- | -------------------------------------------------------- | ---------- |
-| August 11 | Brainstorming / Wireframes / Diagrams / Project Approval | Incomplete |
-| August 12 | Back-end Skeleton / Models / Seed File                   | Incomplete |
-| August 13 | Front-end Skeleton / React Screen & Component Setup      | Incomplete |
-| August 16 | Axios Requests / Data Rendering / Responsiveness         | Incomplete |
-| August 17 | Post MVP / Final Touches / Debugging                     | Incomplete |
-| August 18 | Presentations                                            | Incomplete |
 
 #### Time Estimates
 
